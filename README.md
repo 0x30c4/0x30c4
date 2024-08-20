@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <h5 align="center">
-  Software Engineer with 3 years of extensive experience in Django, Laravel, Go, Linux, Docker, and JavaScript. Excellent problem-solving skills with the ability to analyze and debug complicated software systems. Additionally, adept at creating engaging infotainment content on <a href="https://www.youtube.com/@endoffilee">cybersecurity topics</a>.
+Tech Enthusiast and mid level Software Engineer years of extensive experience in Django, Laravel, Go, Linux, Docker, and JavaScript. Excellent problem-solving skills with the ability to analyze and debug complicated software systems. Additionally, adept at creating engaging infotainment content on cybersecurity topics. Passionate about cybersecurity challenges, actively contribute by creating Capture The Flag (CTF) challenges for HackTheBox.Tech Enthusiast and mid level Software Engineer years of extensive experience in Django, Laravel, Go, Linux, Docker, and JavaScript. Excellent problem-solving skills with the ability to analyze and debug complicated software systems. Additionally, adept at creating engaging infotainment content on <a href="https://www.youtube.com/@endoffilee">cybersecurity topics</a>. Passionate about cybersecurity challenges, actively contribute by creating Capture The Flag (CTF) challenges for HackTheBox.
 </h5>
 
 <h2 align="center" >
