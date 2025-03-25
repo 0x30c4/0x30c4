@@ -8,5 +8,5 @@ Experienced Software Engineer and Content Engineer with a focus on building secu
   Connect with me at
   <br><br>
   <a align="center" href="https://0x30c4.dev">💼 Portfolio</a> | 
-  <a href="https://twitter.com/0x30c4">🐦 Twitter</a> | 
+  <a href="https://twitter.com/0x30c4">🐦 Twitter</a>
 </h3>
