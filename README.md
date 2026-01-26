@@ -1,12 +1,17 @@
-<h1 align="center">Hi there 👋</h1>
+<div align="center">
 
-<h5 align="center">
-Experienced Software Engineer and Content Engineer with a focus on building secure, scalable backend systems using Go, Python, and cloud technologies. Skilled in optimizing performance, debugging complex systems, and developing cybersecurity content. As a Content Engineer, I design hands-on security labs and CTF challenges to help others learn real-world attack techniques. Passionate about problem-solving and continuous learning.
-</h5>
+## the most efficient bug writer you’ll ever meet
 
-<h3 align="center">
-  Connect with me at
-  <br><br>
-  <a align="center" href="https://0x30c4.dev">💼 Portfolio</a> | 
-  <a href="https://twitter.com/0x30c4">🐦 Twitter</a>
-</h3>
+[here](https://www.instagram.com/endoffilee) i yap about *nix, coding, and hardware
+
+<p>
+  <a href="https://discord.gg/gbAtmf8zHB">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="24" alt="Discord" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://endoffile.academy/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internetexplorer.svg" width="24" alt="Website" />
+  </a>
+</p>
+
+</div>
